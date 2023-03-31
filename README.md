@@ -1,2 +1,2 @@
 # Evento-angular-playground
-A Repo to save Angular samples
+Repositório para salvar amostras Angular.
